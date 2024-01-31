@@ -33,4 +33,5 @@ In the rapidly evolving retail landscape, supermarkets play a pivotal role in ca
  <p align="center">
   <img width="400" height="200" src=""C:\Users\user\OneDrive\Pictures\Chart1.png"">
   </p>
+  
 ![image](https://github.com/RishikaB-05/Supermarket-Data-Analysis/assets/157221360/d826a7a3-c4e8-43e8-99c6-ce22f21eca40)
