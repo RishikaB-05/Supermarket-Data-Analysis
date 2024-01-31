@@ -15,7 +15,7 @@ In the rapidly evolving retail landscape, supermarkets play a pivotal role in ca
 - Data Preprocessing
 - Exploratory data analysis (EDA)
 - Data visualization with Dashboard & insights
-# Project Inside Questions :
+## Project Insights Questions :
 
 1. Which Channel got the maximum Order?
 
