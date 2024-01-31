@@ -1,4 +1,7 @@
 
+## Hi, I'm **Rishika!** 👋
+I have added a brief Analysis of **Supermarket Dataset** using Excel.
+Have a look.
 # **SUPER MARKET ANALYSIS OF 2022**
 ## Introduction :
 
@@ -8,22 +11,25 @@ In the rapidly evolving retail landscape, supermarkets play a pivotal role in ca
 - Data Understanding the Problems
 - Data Cleaning
 - Data Preprocessing
-- Explotory data analysis (EDA)
+- Exploratory data analysis (EDA)
 - Data visualization with Dashboard & insights
 # Project Inside Questions :
 
-1.Which Channel got the maximum Order?
+1. Which Channel got the maximum Order?
 
-2.What are the top 5 states which contributed the most?
+2. What are the top 5 states which contributed the most?
 
-3.What are the Top Ship cities in top 5 Ship States?
+3. What are the Top Ship cities in the top 5 Ship States?
 
-4.Which month generated the maximun Sales?
+4. Which month generated the maximum Sales?
 
-5.What are different order status?
+5. What are different order status?
 
-6.Who purchased more men or women ?
+6. Who purchased more men or women?
 
-7.Highest Selling Category?
-##  Based on the report insights ,here are the outcomes of the sales :-
-	
+7. Highest Selling Category?
+##  Based on the report insights, here are the outcomes of the sales:-
+1. In my report, I have found that Amazon has the maximum number of orders
+ <p align="center">
+  <img width="400" height="200" src=""C:\Users\user\OneDrive\Pictures\Chart1.png"">
+  </p>
