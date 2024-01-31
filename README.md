@@ -2,6 +2,72 @@
 ## Hi, I'm **Rishika!** 👋
 I have added a brief Analysis of **Supermarket Dataset** using Excel.
 Have a look.
+
+ SUPER MARKET ANALYSIS OF 2022																																								
+																																								
+																																								
+																																								
+																																								
+                                                                                                                                               By Rishika Bhunia																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+![Uploading image.png…]()
+
 # **SUPER MARKET ANALYSIS OF 2022**
 ## Introduction :
 
